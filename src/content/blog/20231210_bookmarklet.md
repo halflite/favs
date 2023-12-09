@@ -8,7 +8,7 @@ draft: false
 tags:
   - blog
 description:
-  ブログ用bookmarkelet
+  ほぼ自分用のbookmarkeletのメモ
 ---
 
 開いたページへのリンクをMarkdown形式で出すbookmarkelet
