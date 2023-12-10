@@ -33,7 +33,7 @@ _____
 
 
 1. GitHubを開く
-2. .gitigonoreとREADME.mdだけ入ったリポジトリを新規作成
+2. .gitignoreとREADME.mdだけ入ったリポジトリを新規作成
 3. ローカルで、[RancerDesktop](https://rancherdesktop.io/ "Rancher Desktop by SUSE")と[VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code "Visual Studio Code – コード エディター | Microsoft Azure")を立ち上げる
 4. VSCodeを使って、GitHubからリポジトリをクローン
 5. .devcontainer配下に、Dockerfileで実行環境、devcontainer.jsonに拡張機能設定＆エディタ設定を書く。ここらは以前やったことあるのでほぼコピペ。
