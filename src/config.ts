@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "halflite",
   desc: "my favorites. witten by halflite.net",
   title: "favorites... by halflite.net",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og-image.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
