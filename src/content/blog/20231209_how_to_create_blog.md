@@ -36,13 +36,14 @@ _____
 2. .gitignoreとREADME.mdだけ入ったリポジトリを新規作成
 3. ローカルで、[RancerDesktop](https://rancherdesktop.io/ "Rancher Desktop by SUSE")と[VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code "Visual Studio Code – コード エディター | Microsoft Azure")を立ち上げる
 4. VSCodeを使って、GitHubからリポジトリをクローン
-5. .devcontainer配下に、Dockerfileで実行環境、devcontainer.jsonに拡張機能設定＆エディタ設定を書く。ここらは以前やったことあるのでほぼコピペ。
-6. テンプレート込みのブログエンジンをインストール、今回はAstroだったので一行。
-7. ローカルで起動確認
-8. GitHubにプッシュ
-9. NetlifyにGitHubとのリポジトリ連携を行う
-10. もう公開できた！
-11. 後は、タイトルとか記事表示設定の変更、ドメイン連携の設定。記事を書く。
+5. .devcontainer配下に、Dockerfileで実行環境、devcontainer.jsonに拡張機能設定＆エディタ設定を書く。
+6. VSCodeでコンテナ環境を立ち上げ、ターミナルを表示
+7. ターミナルから、テンプレート込みのブログエンジンをインストール、今回はAstroだったので一行。
+8. ローカルで起動確認
+9. GitHubにプッシュ
+10. NetlifyにGitHubとのリポジトリ連携を行う
+11. もう公開できた！
+12. 後は、タイトルとか記事表示設定の変更、ドメイン連携の設定。記事を書く。
 
 _____
 
