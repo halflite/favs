@@ -16,3 +16,4 @@ _____
 
 * メイン [halflite.net](https://halflite.net/)
 * テンプレート [AstroPaper | Astro](https://astro.build/themes/details/astro-paper/)
+* 書影/CDジャケットの埋め込みのためにAmazonアソシエイトを使用しています [Amazon アソシエイト](https://affiliate.amazon.co.jp/)
