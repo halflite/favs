@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "favorites... by halflite.net",
   ogImage: "og-image.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 10,
 };
 
 export const LOCALE = ["jp-JP"]; // set to [] to use the environment default
