@@ -6,14 +6,14 @@ import postOgImage from "./og-templates/post";
 import siteOgImage from "./og-templates/site";
 
 const [ fontRegular, fontBold ] = await Promise.all([
-  fs.readFile("./public/fonts/BIZUDPGothic-Regular.ttf"),
-  fs.readFile("./public/fonts/BIZUDPGothic-Bold.ttf"),
+  fs.readFile("./public/fonts/ZenKakuGothicNew-Regular.ttf"),
+  fs.readFile("./public/fonts/ZenKakuGothicNew-Bold.ttf"),
 ]);
 
 const options: SatoriOptions = {
   width: 1200,
   height: 630,
-  embedFont: false,
+  embedFont: true,
   fonts: [
     {
       name: "Zen Kaku Gothic New",
