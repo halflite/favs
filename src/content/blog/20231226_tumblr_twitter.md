@@ -1,13 +1,13 @@
 ---
 author: halflite
 pubDatetime: 2023-12-26T00:00:00Z
-title: ブログの見た目を修正する
+title: TumblrとTwitter(現X)を連携したいだけだった
 postSlug: 20231226_tumblr_twitter
 featured: false
 draft: false
 tags:
   - blog
-description: ブログの見た目を修正する
+description: TumblrとTwitter(現X)を連携したいだけだった
 ---
 
 > 2023年2月13日 - TumblrをX(Twitter)のアカウントと連携させる機能が削除されました。これにより、新たな投稿が公開された際にTumblrからXに直接自動で共有する機能はなくなります。また、ブログテーマで最近のツイートや投稿を自動的に表示する機能もなくなります。
