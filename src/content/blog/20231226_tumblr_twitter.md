@@ -16,4 +16,4 @@ description: TumblrとTwitter(現X)を連携したいだけだった
 
 音楽メモ等は、[blog.halflite.net](https://blog.halflite.net/)でTumblrで動かしているのですが、Tumblrで投稿したエントリーを、Twitter(現X)に連携投稿したいな！って思ったんです。
 
-まぁ、結果はこうですよね。 今のTwitter(現X)のあり方からすると、こうにしかならない。と言いますか…。
+まぁ、結果はこうですよね。 今のTwitter(現X)のあり方からすると、こうにしかならない、と言いますか…。
