@@ -1,0 +1,13 @@
+---
+author: halflite
+pubDatetime: 2023-12-23T00:00:00Z
+title: ブログの見た目を修正する
+postSlug: 20231226_tumblr
+featured: false
+draft: false
+tags:
+  - blog
+description: ブログの見た目を修正する
+---
+
+xxx
