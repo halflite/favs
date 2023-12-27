@@ -20,6 +20,6 @@ description: 音楽ブログのデザインを修正する
 - [ひとり開発日記。](https://halflite.github.io/techlog/ "ひとり開発日記。")
 - [bitter\*smooth](https://bittersmooth.halflite.net/ "bitter*smooth")
 
-上記が自分が[Hugo](https://gohugo.io/ "The world’s fastest framework for building websites | Hugo")を使って構築しているブログですが、SaaSと違って、自分でテンプレートのアップデートをやらなくちゃだし、しかもテンプレートによって設定がバラバラなので、ホント涙目なのです…。 でも、やってみると苦労も多いけど、それなりに楽しいッスね。
+上記が自分が[Hugo](https://gohugo.io/ "The world’s fastest framework for building websites | Hugo")を使って構築しているブログですが、SaaSと違って、自分でテンプレートのアップデートをやらなくちゃだし、しかもHugoは、テンプレートによって設定がバラバラなので、ホント涙目なのです…。 でも、やってみると苦労も多いけど、それなりに楽しいッスね。
 
 でも、結局は「Hugoはやめろ、面倒だから。今からでも遅くないからAstroに移行しろ。」ですかね。
