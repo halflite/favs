@@ -7,8 +7,7 @@ featured: false
 draft: false
 tags:
   - blog
-description:
-  新しいブログの始め方
+description: 新しいブログの始め方
 ---
 
 2023年も暮れになりましたが、この時点でブログを作ろうとすると、実は選択肢狭かったりもしますね…。
@@ -16,21 +15,20 @@ description:
 
 自分の大前提として、以下があります。
 
-* 自分用のメモ書き
-    * (所謂)バズを狙わない、他者の反応を気にしない
-* 広告を出さない
-    * 見ている人が不快になる広告をコントロール出来ないのは嫌ですよね
-* モバイルで投稿、修正はしない
-    * おうちで考えながら投稿する前提です
-* Markdownで記事を書ける
-* できるだけ安価で
+- 自分用のメモ書き
+  - (所謂)バズを狙わない、他者の反応を気にしない
+- 広告を出さない
+  - 見ている人が不快になる広告をコントロール出来ないのは嫌ですよね
+- モバイルで投稿、修正はしない
+  - おうちで考えながら投稿する前提です
+- Markdownで記事を書ける
+- できるだけ安価で
 
 となると、GitHubとNetlify連携で、静的なHTMLを書き出すのが、一番良いのかな、と。
 
 …で、作り始めたら、30分位で公開出来ましたわ。 うわ！今だとこんなに簡単なのか！って。
 
-_____
-
+---
 
 1. GitHubを開く
 2. .gitignoreとREADME.mdだけ入ったリポジトリを新規作成
@@ -45,7 +43,7 @@ _____
 11. もう公開できた！
 12. 後は、タイトルとか記事表示設定の変更、ドメイン連携の設定。記事を書く。
 
-_____
+---
 
 Dockerfileは、こんな感じ。Debian 12(bookworm)をベースに、gitと自分の設定を追加する、ですね。
 
@@ -66,16 +64,13 @@ devcontainer.jsonは、こんな感じ。でも、ここらは人それぞれが
   },
   "customizations": {
     "vscode": {
-      "extensions": [
-        "ms-ceintl.vscode-language-pack-ja",
-        "mhutchie.git-graph"
-      ],
+      "extensions": ["ms-ceintl.vscode-language-pack-ja", "mhutchie.git-graph"],
       "settings": {
         "editor.formatOnSave": true,
         "editor.tabSize": 2,
         "editor.wordWrapColumn": 200,
         "editor.wordWrap": "wordWrapColumn",
-        "files.trimTrailingWhitespace": true
+        "files.trimTrailingWhitespace": false
       }
     }
   }

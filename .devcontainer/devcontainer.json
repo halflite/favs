@@ -9,7 +9,13 @@
         "ms-ceintl.vscode-language-pack-ja",
         "mhutchie.git-graph"
       ],
-      "settings": {}
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.tabSize": 2,
+        "editor.wordWrapColumn": 200,
+        "editor.wordWrap": "wordWrapColumn",
+        "files.trimTrailingWhitespace": false
+      }
     }
   }
 }
